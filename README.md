@@ -90,15 +90,18 @@ This application uses the [Hacker News Search API](https://hn.algolia.com/api) p
 
 ## Contributing
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Author
+
+**Aadhar Gaur**
+
+- [LinkedIn](https://www.linkedin.com/in/aadhar-gaur-php/)
+- [GitHub](https://github.com/aadhar41)
 
 ## Acknowledgments
 
